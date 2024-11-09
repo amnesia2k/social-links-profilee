@@ -22,8 +22,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Repository URL: [Add solution URL here](https://github.com/amnesia2k/social-links-profilee)
-- Live Site URL: [Add live site URL here](https://social-linkss-profilee.netlify.app/)
+- Solution URL: [GitHub Repository](https://github.com/amnesia2k/social-links-profilee)
+- Live Site URL: [Netlify](https://social-linkss-profilee.netlify.app/)
 
 ## My process
 
