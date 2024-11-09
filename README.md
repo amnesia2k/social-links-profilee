@@ -16,20 +16,14 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 
 ![](./public/image.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Add solution URL here](https://github.com/amnesia2k/social-links-profilee)
+- Live Site URL: [Add live site URL here](https://social-linkss-profilee.netlify.app/)
 
 ## My process
 
@@ -63,13 +57,11 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [BroCode](https://youtube.com/@BroCodez) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Hitesh Choudhary](https://youtube.com/@HiteshCodeLab) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [BroCode](https://youtube.com/@BroCodez)
+- [Hitesh Choudhary](https://youtube.com/@HiteshCodeLab)
 
 ## Author
 
 - Website - [LinkedIn](https://linkedin.com/in/olatilewaolatoye)
 - Frontend Mentor - [@amnesia2k](https://www.frontendmentor.io/profile/amnesia2k)
 - Twitter - [@kang_codes](https://x.com/kang_codes)
-
-
